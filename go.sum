@@ -1,0 +1,6 @@
+github.com/mxurlx/flagit v0.0.0-20250407093653-53cc5e0ede21 h1:rm8on4gLjbhoxrZMh64FvXNtj3EgCx63ywXtZ/Nf0Y0=
+github.com/mxurlx/flagit v0.0.0-20250407093653-53cc5e0ede21/go.mod h1:uIlNY+NiIyRCXet1CNHZam/NBVO56f6r5kWKvhWzABk=
+github.com/mxurlx/flagit v0.0.0-20250407111806-ad03e062d9da h1:0QgAdeg4zN7Gqb/nNmNCydqlGCG0lg02sMOoQGIWbCQ=
+github.com/mxurlx/flagit v0.0.0-20250407111806-ad03e062d9da/go.mod h1:HkQd88Zejf2UUpqdMXBdDZlJnlbGBitnqZDRTpc6DpU=
+golang.org/x/text v0.24.0 h1:dd5Bzh4yt5KYA8f9CJHCP4FB4D51c2c6JvN37xJJkJ0=
+golang.org/x/text v0.24.0/go.mod h1:L8rBsPeo2pSS+xqN0d5u2ikmjtmoJbDBT1b7nHvFCdU=

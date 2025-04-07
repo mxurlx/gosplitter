@@ -1,0 +1,1 @@
+map[.:map[help:[h false Show help message] version:[v false Show version]] merge:map[input:[1 <mandatory> Input directory] output:[o  Output file]] split:map[chunksize:[c 4096 Chunk size] input:[1 <mandatory> Input file] output:[o  Output directory] suffix:[s part Chunk suffix]]]

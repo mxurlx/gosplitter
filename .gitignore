@@ -1,0 +1,6 @@
+Makefile
+.vscode/*
+.DS_Store
+Thumbs.db
+LICENSE
+README.md
